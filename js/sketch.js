@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  var rowLength = 75
+  var rowLength = 64
   var containersize = 500
 
 // function to write HTML divs for each pixel
